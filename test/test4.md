@@ -24,7 +24,7 @@
 |总计|19|97831680||||	　	　	　
 					
 
-||Coefficients|标准误差|t|Stat|P-value|
+||Coefficients|标准误差|t Stat|P-value|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |Intercept|148.7005|574.4213|0.2589|0.799|
 |X Variable 1|0.8147|0.512|1.5913|0.1311|
