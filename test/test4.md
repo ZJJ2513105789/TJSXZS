@@ -19,5 +19,6 @@
 ![](../images/4-5-1.png)
 
 对所建立的回归模型进行综合评价。
+[该题解答](https://wenku.baidu.com/view/54385ba11a37f111f1855b69.html)
 
 
