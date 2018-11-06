@@ -34,7 +34,7 @@
 	
 参数估计和检验
 
-||Coefficients|标准误差|t Stat|P-value|
+||Coefficients|标准误差|![](../images/tStat.png)|![](../images/P-value.png)|
 |:-:|:-:|:-:|:-:|:-:|
 |Intercept|-15.533|33.695|-0.461|0.653|
 |X Variable 1|0.703|0.203|3.465|0.005|
